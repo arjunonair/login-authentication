@@ -1,0 +1,17 @@
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/f.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/g.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/loginbtn.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/loginimg.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/profile.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/profile1.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/signup.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/img/t.png
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Arjun/taxi/taxi/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

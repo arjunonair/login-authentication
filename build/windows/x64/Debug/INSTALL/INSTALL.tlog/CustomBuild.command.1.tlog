@@ -1,0 +1,10 @@
+^C:\USERS\ARJUN\TAXI\TAXI\BUILD\WINDOWS\CMAKEFILES\05BDF408225E791404CFAD7EF1685235\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
