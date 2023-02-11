@@ -6,8 +6,8 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'login_page.dart';
-import 'package:taxi/auth.dart';
+import '../login/login_page.dart';
+import 'package:taxi/authentication/auth.dart';
 
 class Signup_page extends StatefulWidget {
   const Signup_page({super.key});

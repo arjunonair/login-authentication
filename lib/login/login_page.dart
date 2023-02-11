@@ -6,7 +6,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'sign_up_page.dart';
+import '../signup/sign_up_page.dart';
 
 class Loginpage extends StatefulWidget {
   const Loginpage({super.key});
